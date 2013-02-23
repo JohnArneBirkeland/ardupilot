@@ -152,7 +152,7 @@
 // -------------------------------------------------------------
 // Using both filters is not recommended and may reduce servo input resolution
 //#define _AVERAGE_FILTER_            // Average filter to smooth servo input capture jitter
-#define _JITTER_FILTER_ 2           // Cut filter to remove servo input capture jitter (1 unit = 1us)
+//#define _JITTER_FILTER_ 2           // Cut filter to remove servo input capture jitter (1 unit = 1us)
 // -------------------------------------------------------------
 
 #ifndef F_CPU
